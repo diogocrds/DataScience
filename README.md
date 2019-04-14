@@ -4,4 +4,4 @@ Date: 14/04
 
 > Titanic
 
-Using titanic set frm Kaggle.
+Using titanic set from Kaggle.
